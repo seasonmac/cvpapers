@@ -35,3 +35,5 @@
 - [HDR转换曲线比较](http://www.360doc.com/content/19/0605/07/61018320_840481426.shtml)
 - [杜比hdr白皮书](https://www.dolby.com/us/en/technologies/dolby-vision/dolby-vision-white-paper.pdf)
 - [DisplayHDR：电脑屏幕的 HDR 新标准](https://cn.engadget.com/2017/12/12/vesa-unveils-hdr-quality-standard/)
+- [handle output to a SMPTE ST 2084 displaylogin](https://patches.videolan.org/patch/15826/)
+- [PIXCOLOR: PIXEL RECURSIVE COLORIZATION](https://arxiv.org/pdf/1705.07208.pdf) [实现代码](https://github.com/sjooyoo/pix-color_pixel-cnn)
